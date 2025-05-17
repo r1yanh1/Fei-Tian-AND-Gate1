@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Gate
+a single and gate
 
 ## How to test
 
-Gate
+try all combinations of 2 inputs
+
 ## External hardware
 
-Gate
+a single led
